@@ -13,4 +13,4 @@
 
 ## Использованные библиотеки, инструменты и навыки
 
-*Pandas, NumPy, sklearn, Matplotlib, statsmodels, catboost, * , подбор гиперпараметров, кросс-валидация, TimeSeriesSplit
+*Pandas, NumPy, sklearn, Matplotlib, statsmodels, catboost* , подбор гиперпараметров, кросс-валидация, TimeSeriesSplit
